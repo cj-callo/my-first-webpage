@@ -1,8 +1,9 @@
 h1 {
-  color:green;
-  text-align:right;
-  font-family: fantasy;
-  font-size: 40px
+  color:black;
+  text-align:center;
+  font-family:fantasy;
+  font-weight: bolder;
+  font-size: 50px
 }
 
 
@@ -22,5 +23,5 @@ p {
 ul{
   font-size: 20px;
   line-height: 30px;
-  
+
 }

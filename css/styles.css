@@ -15,20 +15,29 @@ h2 {
 }
 
 h3 {
-  text-align: center;
+  text-align: left;
   font-weight: bold;
+  font-size: 30px;
 }
 
 p {
-  text-align: center;
-  font-family:cursive;
+  text-align: left;
+  font-family:serif;
   font-size: 20px
-
 
 }
 
 ul{
+  text-align: left;
   font-size: 20px;
   line-height: 30px;
 
+}
+
+li {
+  text-align: left;
+}
+
+ol{
+  text-align: center;
 }
